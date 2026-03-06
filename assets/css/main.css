@@ -1366,7 +1366,7 @@ input, select, textarea {
 					letter-spacing: 0.1rem;
 					font-size: 3.0rem;
 					border-bottom: 0;
-					font-weight: bold;
+					font-weight: 700;
 				}
 
 					#header nav ul li a:hover {
@@ -1671,6 +1671,7 @@ input, select, textarea {
     font-size: 1.1rem;
 	font-weight: 100;
 }
+
 
 
 
