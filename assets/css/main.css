@@ -1661,14 +1661,16 @@ input, select, textarea {
 		}
 
 #header .content p.reading {
-  font-size: 0.8em;
-  margin-top: -40px;
+  font-size: 1.0em;
+  margin-top: -50px;
   letter-spacing: 0.1em;
 }
 
 #header .content p.job{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
+	font-weight: 100;
 }
+
 
 
 
