@@ -1681,12 +1681,14 @@ input, select, textarea {
     font-weight: 600;
 }
 
-body {
+#bg {
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 @media screen and (min-width: 768px) {
-    body {
+    #bg {
         background-size: 120%;
     }
 }
