@@ -1364,7 +1364,7 @@ input, select, textarea {
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: none;
 					letter-spacing: 0.1rem;
-					font-size: 0.8rem;
+					font-size: 1.0rem;
 					border-bottom: 0;
 					font-weight: 700;
 				}
@@ -1671,6 +1671,7 @@ input, select, textarea {
     font-size: 1.1rem;
 	font-weight: 100;
 }
+
 
 
 
