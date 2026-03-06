@@ -1677,7 +1677,7 @@ input, select, textarea {
 }
 
 #header nav ul li a.music-link {
-    font-size: 1.0rem;
+    font-size: 1.1rem;
     font-weight: 510;
 }
 
@@ -1690,6 +1690,7 @@ input, select, textarea {
         background-size: 120%;
     }
 }
+
 
 
 
