@@ -1661,6 +1661,10 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+/* ============================= */
+/* Custom CSS (自分の追加部分)   */
+/* ============================= */
+
 #header .content p.reading {
   font-size: 1.0em;
   margin-top: -50px;
@@ -1676,6 +1680,7 @@ input, select, textarea {
     font-size: 1.1rem;
     font-weight: 600;
 }
+
 
 
 
