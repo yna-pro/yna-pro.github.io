@@ -1676,10 +1676,11 @@ input, select, textarea {
 	font-weight: 100;
 }
 
-.music-link {
+#header nav ul li a.music-link {
     font-size: 1.5rem;
     font-weight: bold;
 }
+
 
 
 
