@@ -1364,9 +1364,9 @@ input, select, textarea {
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: none;
 					letter-spacing: 0.1rem;
-					font-size: 1.0rem;
+					font-size: 0.8rem;
 					border-bottom: 0;
-					font-weight: 700;
+					font-weight: 500;
 				}
 
 					#header nav ul li a:hover {
@@ -1677,9 +1677,10 @@ input, select, textarea {
 }
 
 .music-link {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: 600;
 }
+
 
 
 
