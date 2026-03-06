@@ -1681,20 +1681,15 @@ input, select, textarea {
     font-weight: 500;
 }
 
-#bg {
+#bg:after {
     background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 @media screen and (min-width: 768px) {
-    #bg {
+    #bg:after {
         background-size: 120%;
     }
 }
-
-
-
 
 
 
