@@ -1159,7 +1159,7 @@ input, select, textarea {
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			background-image: url("../../images/メインビジュアル6.jpg");
-			background-position: 130% 50%;
+			background-position: 150% 50%;
 			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
@@ -1662,9 +1662,10 @@ input, select, textarea {
 
 .reading {
   font-size: 0.7em;
-  margin-top: -50px;
+  margin-top: -40px;
   letter-spacing: 0.1em;
 }
+
 
 
 
